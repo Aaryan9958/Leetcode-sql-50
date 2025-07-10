@@ -16,6 +16,7 @@ My solutions to the LeetCode SQL Top 50 questions
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Aaryan9958/Leetcode-sql-50/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Aaryan9958/Leetcode-sql-50/tree/master/1664-find-users-with-valid-e-mails) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Aaryan9958/Leetcode-sql-50/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1801-average-time-of-process-per-machine](https://github.com/Aaryan9958/Leetcode-sql-50/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/Aaryan9958/Leetcode-sql-50/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Aaryan9958/Leetcode-sql-50/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Aaryan9958/Leetcode-sql-50/tree/master/1908-recyclable-and-low-fat-products) |
