@@ -14,6 +14,7 @@ My solutions to the LeetCode SQL Top 50 questions
 | [0595-big-countries](https://github.com/Aaryan9958/Leetcode-sql-50/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Aaryan9958/Leetcode-sql-50/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Aaryan9958/Leetcode-sql-50/tree/master/1153-product-sales-analysis-i) |
+| [1161-project-employees-i](https://github.com/Aaryan9958/Leetcode-sql-50/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/Aaryan9958/Leetcode-sql-50/tree/master/1258-article-views-i) |
 | [1390-average-selling-price](https://github.com/Aaryan9958/Leetcode-sql-50/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Aaryan9958/Leetcode-sql-50/tree/master/1415-students-and-examinations) |
